@@ -2,7 +2,7 @@
 
 Estaciones de monitoreo de la calidad del aire en Nuevo Le&oacute;n a 2016. 
 
-| Estacion | Clave | Descripci&oacute;n de la estaci&oacute;n
+| Estaci&oacute;n | Clave | Descripci&oacute;n de la estaci&oacute;n
 | -------- | ----- | ---------------------------------------- |
 | Obispado |  CE | Mide impactos del tráfico y la mezcla de los contaminantes de la mayoría de las fuentes industriales |
 | Escobedo |  N | Localizada dentro de un área de concentración poblacional, monitorea la contaminación de fuentes fijas y móviles de la zona norte del AMM. |
@@ -16,7 +16,7 @@ Estaciones de monitoreo de la calidad del aire en Nuevo Le&oacute;n a 2016.
 | Juárez |  SE2 | Localizada en el  centro de Juárez, predomina zona habitacional |
 
 
-**Nota:** Se agreg&oacute; una estaci&aocute;n en Pueblo Serena. Falta buscar la clave de esa estaci&oacute;n.
+**Nota:** Se agreg&oacute; una estaci&oacute;n en Pueblo Serena. Falta buscar la clave de esa estaci&oacute;n.
 
 
 Fuente: Cuadro 3. _Programa de gesti&oacute;n para mejorar la calidad del aire del estado de Nuevo Le&oacute;n_ [PROAIRE 2016-2025](https://www.gob.mx/cms/uploads/attachment/file/250974/ProAire_Nuevo_Leon.pdf)
